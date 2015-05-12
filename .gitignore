@@ -1,0 +1,10 @@
+.Rhistory
+.Rapp.history
+
+*-Ex.R
+
+.Rproj.user/
+
+vignettes/*.html
+vignettes/*.pdf
+
